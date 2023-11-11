@@ -1,3 +1,128 @@
 body {
   background: peachpuff;
+   margin: 0;
+  padding: 0;
+  line-height: 1.6;
+  word-spacing: 1.4px;
+  font-family: 'Roboto', sans-serif;
+  display: flex;
+  align-items:center ;
+  height: 100vh;
+
+
 }
+
+ .container{
+   width: 80%;
+   height: 700px;
+   margin: 0% auto;
+   border: 10px solid gray;
+ }
+
+ .a{
+  width: 9000px;
+  height:150px;
+  background-color: darksalmon;
+  padding: 1em;
+  font-weight: 700;
+  color:gray;
+  text-align: center;
+  border: 10px solid gray;
+  border-radius: 10px;
+
+ }
+
+ .b{
+  width: 455px;
+  height:150px;
+  background-color: darksalmon;
+  padding: 1em;
+  font-weight: 700;
+  color:gray;
+  text-align: center;
+  border: 10px solid gray;
+    border-radius: 10px;
+ }
+
+ .c{
+  width: 455px;
+  height:150px;
+  background-color: darksalmon;
+  padding: 1em;
+  font-weight: 700;
+  color:gray;
+  text-align: center;
+  border: 10px solid gray;
+  border-radius: 10px;
+ }
+
+ .d{
+  width: 455px;
+  height: 150px;
+  background-color: darksalmon;
+  padding: 1em;
+  font-weight: 700;
+  color:gray;
+  text-align: center;
+  border: 10px solid gray;
+  border-radius: 10px;
+ }
+
+ .e{
+  width: 455px;
+  height:150px;
+  background-color: darksalmon;
+  padding: 1em;
+  font-weight: 700;
+  color:gray;
+  text-align: center;
+  border: 10px solid gray;
+  border-radius: 10px;
+ }
+
+ .f{
+  width: 455px;
+  height:150px;
+  background-color: darksalmon;
+  padding: 1em;
+  font-weight: 700;
+  color:gray;
+  text-align: center;
+  border: 10px solid gray;
+  border-radius: 10px;
+ }
+
+ .g{
+  width: 455px;
+  height:150px;
+  background-color: darksalmon;
+  padding: 1em;
+  font-weight: 700;
+  color:gray;
+  text-align: center;
+  border: 10px solid gray;
+  border-radius: 10px;
+ }
+
+ .h{
+  width: 9000px;
+  height:150px;
+  background-color: darksalmon;
+  padding: 1em;
+  font-weight: 700;
+  color:gray;
+  text-align: center;
+  border: 10px solid gray;
+  border-radius: 10px;
+ }
+
+.container{
+  display: flex;
+flex-wrap: wrap;
+flex-direction: row;
+}
+
+.h{
+   flex-grow: 1;
+}
+
